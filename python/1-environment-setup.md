@@ -17,7 +17,9 @@ io.show()
 这段代码是用scikit-image库对下图左边的硬币图像进行边缘检测，结果如右图：
 
 ![硬币边缘检测](assets/01/example_coins.jpg)
+
 可以看到，用很简单的几行代码就可以做到比较好的结果，这就是Python的强大之处。下面介绍具体的开发环境配置。  
+
 
 ## 2. Python安装
 ### (1). Windows环境
@@ -95,4 +97,4 @@ pip install keras
 Python的IDE推荐PyCharm和Spyder，其中PyCharm是要收费的，但是有免费的学生版本[PyCharm Edu](https://www.jetbrains.com/pycharm-edu/)。Spyder的安装可以在[这里](https://github.com/spyder-ide/spyder)找到。  
 另外如果你熟悉Sublime的话，安装好Python环境之后，可以使用`Ctrl-B`快捷键来调试和运行Python代码，下面是个简单的例子： 
 
-![用Sublime Text 3来调试和运行Python](assets/01/sublime_python.jpg)
+![用Sublime Text 3来调试和运行Python](assets/01/sulime_python_build.jpg)
